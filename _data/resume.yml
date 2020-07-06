@@ -9,17 +9,17 @@ photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "youremail@example.com" #文本内容
-  href: 'mailto:youremail@example.com' #链接，无链接则空  
+- text: "gf@gfblog.cn" #文本内容
+  href: 'mailto:gf@gfblog.cn' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "1234567890"
-  href: 'tel:1234567890'
+- text: "13511082415"
+  href: 'tel:13511082415'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
+- text: "https://gfblog.cn"
+  href: 'https://gfblog.cn'
   icon: 'icons/web.svg'
 - text: "GitHubID"
-  href: 'https://github.com/NewFuture'
+  href: 'https://github.com/gfblog'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
   # - text: "地址"
@@ -113,8 +113,8 @@ footer: #脚注多组
   screen:
   - text: "简历脚注"
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "Made with &hearts; by gfblog"
+    href: "https://github.com/gfblog/CV/"
 
 #页面额外js脚本，如xx统计
 scripts:
