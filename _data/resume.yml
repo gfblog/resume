@@ -1,7 +1,7 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: "个人简历"
+title: "个人简历-郭峰"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "郭峰"
 jobtitle: "求职意向" #可空不显示
@@ -18,7 +18,7 @@ contact: #联系方式连接等3~5行
 - text: "https://gfblog.cn"
   href: 'https://gfblog.cn'
   icon: 'icons/web.svg'
-- text: "GitHubID"
+- text: "https://github.com/gfblog"
   href: 'https://github.com/gfblog'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
